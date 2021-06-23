@@ -13,9 +13,9 @@
 
 *調整には最低限、周波数カウンターが必要です。また本格的な調整にはテスト用信号発生器、オシロスコープが必要です。*  
 
-![製品ページ](https://bit-trade-one.co.jp/product/assemblydisk/adcqhr1705/)  
+## [製品ページ](https://bit-trade-one.co.jp/product/assemblydisk/adcqhr1705/)  
 
-![組み立てマニュアル](http://einstlab.web.fc2.com/Kit/SuperheterodyneKit.pdf)  
+## [組み立てマニュアル](http://einstlab.web.fc2.com/Kit/SuperheterodyneKit.pdf)  
 
 ## 製品仕様
 
